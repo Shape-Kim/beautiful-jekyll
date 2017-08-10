@@ -13,4 +13,4 @@ Hello, my name is Kim Do Hyung. I am currently studying in yonsei university.
 
 ### my history
 
-In fact, this website is just began. Therefore, I currently cannot make my [CV](http://shape-kim.github.io). if you click my **CV**, you will move to my github site again.
+In fact, this website is just open(2017.08.10). Therefore, I currently cannot make my [CV](http://shape-kim.github.io). if you click my **CV**, you will move to my github site again.
