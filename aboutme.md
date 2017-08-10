@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Shape-Kim
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello, my name is Kim Do Hyung. I am currently studying in yonsei university.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- My major is Computer Vision
+- I'm interested in many computer language although I have poor skills..
 
-What else do you need?
+
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In fact, this website is just began. Therefore, I currently cannot make my [CV](http://shape-kim.github.io). if you click my **CV**, you will move to my github site again.
