@@ -24,6 +24,9 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   Publication: "publications"
+  Project:
+          - Current Project: "https://Shape-kim.github.io/CurrentProject"   
+          - Past Project: "https://Shape-kim.github.io/PastProject"
   CV : "https://Shape-kim.github.io/cv/YOLO9000.pdf"
   Contact me: "contact"
   
