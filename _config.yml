@@ -23,7 +23,6 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Publication: "publications"
   CV : "https://Shape-kim.github.io/cv/YOLO9000.pdf"
   Contact me: "contact"
