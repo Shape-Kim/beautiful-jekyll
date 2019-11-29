@@ -24,9 +24,6 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   Publication: "publications"
-  Project:
-          - Current Project: "https://Shape-kim.github.io/CurrentProject"   
-          - Past Project: "https://Shape-kim.github.io/PastProject"
   CV : "https://Shape-kim.github.io/pre_cv"
   Contact me: "contact"
   
@@ -44,7 +41,7 @@ avatar: "/img/8fe7dee3b9fc12fad567b95303599371e6a95a89_hq.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Kim Do Hyung
-  email: "kdhz1217@gmail.com"
+  email: "do.hyung@yonsei.ac.kr"
   facebook: yourname  # eg. daattali
   github: Shape-Kim    # eg. daattali
   twitter: yourname   # eg. daattali

@@ -13,5 +13,5 @@ Hi, my name is Dohyung Kim. I am currently studying toward a PhD degree in Elect
 
 ### my history
 
-In fact, this website is edited (2019.11.29).
+This website is edited in 2019/11/29.
 

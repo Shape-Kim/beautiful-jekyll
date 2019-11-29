@@ -1,2 +1,2 @@
-email : kdhz1217@gmail.com
+email : do.hyung@yonsei.ac.kr
 
