@@ -20,7 +20,7 @@ Hi, my name is Dohyung Kim. I am currently studying toward a PhD degree in Elect
 
 ### Awards
 1. Silver prize
-- 25<sup>^th</sup> Samsung Human-Tech Prize on Signal Processing
+- 25<sup>th</sup> Samsung Human-Tech Prize on Signal Processing
 
 ### Contact
 - Email: do.hyung@yonsei.ac.kr
