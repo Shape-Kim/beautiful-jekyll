@@ -9,4 +9,4 @@ If you have any opinion in my website. Please email me **kdhz1217@gmail.com**.
 
 Thank you!
     1. SFNet: Learning Object-aware Semantic Correspondence [[Paper](https://arxiv.org/abs/1904.01810)] [[Project](https://cvlab-yonsei.github.io/projects/SFNet/)] 
-    	- Jungyup Lee@*, Dohyung Kim@*, Jean Ponce, Bumsub Ham
+    	- Jungyup Lee&#42;, Dohyung Kim@*, Jean Ponce, Bumsub Ham
