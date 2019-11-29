@@ -4,15 +4,14 @@ title: Shape-Kim
 subtitle: 
 ---
 
-Hello, my name is Kim Do Hyung. I am currently studying in yonsei university.
+Hi, my name is Dohyung Kim. I am currently studying toward a PhD degree in Electrical and Electronic Engineering at Yonsei University in Seoul.
 
-- My major is Computer Vision
-- I'm interested in many computer language although I have poor skills..
+- My research interests include computer vision, and deep learning image, especially in image matching and super-resolution.
 
 
 
 
 ### my history
 
-In fact, this website is just open(2017.08.10). Therefore, I currently cannot make my [CV](http://shape-kim.github.io/pre_cv).
+In fact, this website is edited (2019.11.29).
 
