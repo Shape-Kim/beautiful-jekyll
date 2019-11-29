@@ -5,15 +5,26 @@ subtitle:
 ---
 
 Hi, my name is Dohyung Kim. I am currently studying toward a PhD degree in Electrical and Electronic Engineering at Yonsei University in Seoul.
-My research interests include computer vision and deep learning, especially in image matching and super-resolution.
+
+### Education
+- **B. S.** School of Electrical and Electronic Engineering at Yonsei University
+
+### Research interest
+1. Computer Vision and Deep Learning
+	- Image Matching
+	- Super-resolution
 
 ### Publication
-1. (CVPR-2019 **oral**) SFNet: Learning Object-aware Semantic Correspondence [[Paper](https://arxiv.org/abs/1904.01810)] [[Project](https://cvlab-yonsei.github.io/projects/SFNet/)] 
+1. (CVPR-2019 **oral**) SFNet: Learning Object-aware Semantic Correspondence [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Lee_SFNet_Learning_Object-Aware_Semantic_Correspondence_CVPR_2019_paper.html)] [[Project](https://cvlab-yonsei.github.io/projects/SFNet/)] [[Video](https://www.youtube.com/watch?v=gnREux6Zwjg&t=5010s)]
     - Jungyup Lee&#42;, Dohyung Kim&#42;, Jean Ponce, Bumsub Ham
 
-### Contact
-- email: do.hyung@yonsei.ac.kr
+### Awards
+1. Silver prize
+- 25^th Samsung Human-Tech Prize on Signal Processing
 
-#### History
-- This website is edited in 2019/11/29.
+### Contact
+- Email: do.hyung@yonsei.ac.kr
+
+#### Last updated
+- 2019/11/29.
 
