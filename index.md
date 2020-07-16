@@ -4,7 +4,7 @@ title: Shape-Kim
 subtitle: 
 ---
 
-Hi, my name is Dohyung Kim. I am currently studying toward a PhD degree in Electrical and Electronic Engineering at Yonsei University in Seoul, under supervsion of Prof, [Bumsub Ham(http://cvlab-yonsei.github.io)].
+Hi, my name is Dohyung Kim. I am currently studying toward a PhD degree in Electrical and Electronic Engineering at Yonsei University in Seoul, under supervsion of Prof, [[Bumsub Ham](http://cvlab-yonsei.github.io)].
 
 ### Education
 - **B. S.** School of Electrical and Electronic Engineering at Yonsei University
